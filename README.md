@@ -7,4 +7,6 @@ What I'm working on:
 - 🏗️ AI infrastructure and orchestration tooling
 - 🧪 Embodied AI agent research in virtual environments
 
-Building through June 2026. Happy to chat after that → hello@lklabs.ai
+Building through June 2026. LK Labs AI inquiries: hello@lklabs.ai
+
+Open to AI/ML infrastructure opportunities, Summer 2026. Connect on [LinkedIn](https://linkedin.com/in/mattdeyoe).
