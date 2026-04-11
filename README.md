@@ -1,6 +1,6 @@
 Research Engineer. Inference, infrastructure, Linux internals.
 
-> Here to enjoy life 🌊☀️
+Here to enjoy life 🌊☀️
 
 現地現物 - "go and see for yourself"
 
