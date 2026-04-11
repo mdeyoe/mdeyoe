@@ -1,12 +1,7 @@
-### Hey, I'm Matt 👋
+(•̀ᴗ•́)و
 
-Founder at [@lklabs-ai](https://github.com/lklabs-ai). Heads down, shipping. Follow the org for what's next.
+Engineer who likes to research and code. Drawn to experimental problems and the unknown.
 
-What I'm working on:
-- 🎯 An adaptive learning platform for developers
-- 🏗️ AI infrastructure and orchestration tooling
-- 🧪 Embodied AI agent research in virtual environments
+現地現物 - "go and see for yourself"
 
-Building through June 2026. LK Labs AI inquiries: hello@lklabs.ai
-
-Open to AI/ML infrastructure opportunities, Summer 2026. Connect on [LinkedIn](https://linkedin.com/in/mattdeyoe).
+[LinkedIn](https://linkedin.com/in/mattdeyoe)
