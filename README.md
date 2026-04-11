@@ -1,6 +1,6 @@
-(•̀ᴗ•́)و
+Research Engineer. Inference, infrastructure, Linux internals.
 
-Engineer who likes to research and code. Drawn to experimental problems and the unknown.
+> Here to enjoy life 🌊☀️
 
 現地現物 - "go and see for yourself"
 
