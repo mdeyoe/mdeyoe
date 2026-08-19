@@ -1,4 +1,4 @@
-Research Engineer. Infrastructure, inference, and Linux internals.
+Software & Research Engineer. Infrastructure, inference, and Linux internals.
 
 Here to enjoy life 🌊☀️
 
